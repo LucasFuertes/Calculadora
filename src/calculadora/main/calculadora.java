@@ -82,7 +82,8 @@ public class calculadora {
 
 		}
 
-		System.out.println("Programa terminado");
+		System.out.println("Programa finalizado");
+		System.out.println("Gracias por utilizar la aplicacion Calculadora");
 		in.close();
 
 	}
