@@ -75,7 +75,6 @@ public class calculadora {
 				if (continuar == 1) {
 					opcion = seguir();
 				} else {
-					System.out.println("Bye bye prro");
 					opcion = 0;
 				}
 				break;
